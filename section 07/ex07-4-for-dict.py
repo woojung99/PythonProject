@@ -19,3 +19,5 @@ for student in students:
 nike = students[2]
 for k, v in nike.items():
     print(f'{k}:{v}')
+
+

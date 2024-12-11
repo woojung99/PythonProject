@@ -17,3 +17,4 @@ eng_dict_values = eng_dict.values()
 print(eng_dict_values)
 for v in eng_dict_values:
     print(f'eng_dict의 value: {v}')
+

@@ -15,7 +15,7 @@ print('5-1. 절댓값 맵핑:', list(map(abs, number))) # map(적용할 함수, 
 print('5-2. 절댓값 함수:', abs(number[1]))
 print('6. 리스트 길이:', len(number))
 
-# 예제2: 문자열과 관련된 함수들
+
 
 
 
